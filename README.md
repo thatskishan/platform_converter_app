@@ -6,8 +6,7 @@ A new Flutter project.
 
 This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:![Whatsapp 1](https://user-images.githubusercontent.com/123537725/219288160-a96f3eed-724b-42a1-a477-71f132a83cdf.png)
-
+A few resources to get you started if this is your first Flutter project:
 
 
 - [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
@@ -16,7 +15,7 @@ A few resources to get you started if this is your first Flutter project:![Whats
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
-
+<img src = "https://user-images.githubusercontent.com/123537725/219288160-a96f3eed-724b-42a1-a477-71f132a83cdf.png" width="200px">
 <img src = "https://user-images.githubusercontent.com/123537725/219288173-e5c368e3-33a6-447d-9c6a-eb7c666fa696.png" width="200px">
 <img src = "https://user-images.githubusercontent.com/123537725/219288178-edf07e4e-1c79-4267-89b2-8b0918ae54d4.png" width="200px">
 <img src = "https://user-images.githubusercontent.com/123537725/219288184-6008e13c-80b4-4a78-bc7d-0ce992ac01ee.png" width="200px">
